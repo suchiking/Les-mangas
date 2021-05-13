@@ -1,0 +1,141 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:500%22");
+*{
+    margin: 0;
+    padding: 0;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+.Mangas {
+    background-image: url(fond_site.jpg);
+    width: auto ;
+    height: 100vh;
+    background-size: cover;
+    background-position-x: right;
+    background-position-y: center;
+   
+}
+.Mangas2 {
+     color:gold;
+    text-align: left;
+    padding-top: 175px ;
+    font-size: 35px ;
+    line-height: 55px ;
+    padding-left: 35% ;
+    font-family: "Montserrat", sans-serif;
+}
+a {
+    text-decoration: none ;
+    color: gold;
+}
+a:hover {
+    color: blue;
+}
+.Mangas6 {
+    background-image: url(fond_origine.jpg);
+    width: auto ;
+    height: 100vh;
+    background-size: cover;
+    background-position-x: right;
+    background-position-y: center;
+    color: brown;
+    text-align: left;
+    padding-top: 5px ;
+    font-size: 25px ;
+    line-height: 55px ;
+    padding-right: 35% ;
+    font-family: "Montserrat", sans-serif;
+    padding-left: 5px;
+}
+.Mangas7 {
+    background-image: url(pokemon.jpg);
+    width: auto ;
+    height: 100vh;
+    background-size: cover;
+    background-position-x: right;
+    background-position-y: center;
+    color:black;
+    text-align: left;
+    padding-top: 5px ;
+    font-size: 25px ;
+    line-height: 55px ;
+    padding-right: 35% ;
+    font-family: "Montserrat", sans-serif;
+    padding-left: 5px;
+}
+.Mangas8 {
+    color: whitesmoke;
+}
+td
+{
+    border: 1px solid black;
+}
+table
+{
+    border-collapse: collapse; 
+}
+td
+{
+    border: 1px solid black;
+}
+table
+{
+    border-collapse: collapse;
+}
+td, th 
+{
+    border: 2px solid black;
+}
+.Mangas9 {
+    background-image: url(naruto.jpg);
+    background-size: cover;
+    width: auto ;
+    height: 100vh;
+    background-size: cover;
+    background-position-x: right;
+    background-position-y: center;
+    color:blue;
+    text-align: left;
+    padding-top: 5px ;
+    font-size: 20px ;
+    line-height: 48px ;
+    padding-right: 35% ;
+    font-family: "Montserrat", sans-serif;
+    padding-left: 5px;
+}
+.Mangas10 {
+    background-image: url(fmab5.jpg);
+    background-size: cover;
+    width: auto ;
+    height: 100vh;
+    background-size: cover;
+    background-position-x: right;
+    background-position-y: center;
+    color:black;
+    text-align: left;
+    padding-top: 175px ;
+    font-size: 35px ;
+    line-height: 55px ;
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+
+}
+.Mangas11 {
+    color: gold ;
+}
+.H1{
+    height: 75px;
+}
+@media(max-width:1450px){
+.Mangas6{
+    font-size: 15px;
+    line-height: 50px;
+}
+.Mangas7{
+    font-size: 24px;
+    line-height: 50px;
+}
+.Mangas9{
+    font-size: 24px;
+    line-height: 34px;
+}
+}
